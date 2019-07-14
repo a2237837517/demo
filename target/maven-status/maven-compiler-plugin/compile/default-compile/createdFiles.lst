@@ -1,0 +1,4 @@
+com\example\demo\DemoApplication.class
+com\example\demo\TestConstroller.class
+com\example\demo\SchoolClient.class
+com\example\demo\SchoolClientFallback.class
